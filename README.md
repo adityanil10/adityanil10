@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://adityanil10.netlify.app](https://adityanil10.netlify.app)
+- 👨‍💻 Most of my projects are available at [https://adityanil10.netlify.app](https://adityanil10.netlify.app)
 
 - 💬 Ask me about **Machine Learning, Web Development**
 
