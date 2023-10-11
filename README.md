@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adityanil10.netlify.app](https://adityanil10.netlify.app)
 
-- 💬 Ask me about **Machine Learning, Web Development, App Development**
+- 💬 Ask me about **Machine Learning, Web Development**
 
 - 📫 How to reach me **adityanil10@gmail.com**
 
