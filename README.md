@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Anil Nair</h1>
 <h3 align="center">A passionate Software Engineer and ML Enthusiast</h3>
 
-<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FYashasewi&psig=AOvVaw2B9WmYpFyDopBFrzy7hnl5&ust=1697109211150000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj_m8_u7YEDFQAAAAAdAAAAABAR">
+<img align="right" alt="coding" src="![image](https://github.com/adityanil10/adityanil10/assets/74861621/74861de6-c8f9-4b7d-9e49-15b0b627cf13)">
 
 - 🌱 I’m currently learning **Cloud Computing**
 
